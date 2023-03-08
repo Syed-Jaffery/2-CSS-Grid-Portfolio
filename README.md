@@ -1,8 +1,8 @@
 # Portfolio page using CSS Grid
 
-Visit website ()
+Visit website (https://syed-jaffery.github.io/2-CSS-Grid-Portfolio/)
 
-![website image](https://github.com/Syed-Jaffery/3-Bootstrap-Portfolio/blob/main/Images/screencapture.pdf)
+![website image](./images/screen-capture.png)
 IMPORTANT - Please click this 'website image' link to view in PDF format as GitHub pages is not rendering the website correctly
 
 ## Description
