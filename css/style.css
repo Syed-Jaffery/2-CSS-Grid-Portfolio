@@ -65,7 +65,7 @@ p {
   justify-content: flex-end;
   align-items: flex-end;
   height: 100px;
-  background-image: url(/images/02-hero-bg.jpg);
+  background-image: url(../images/02-hero-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -123,7 +123,7 @@ p {
   grid-column: 2 / span 2;
   grid-row: 2 / span 2;
   border: 3px solid aqua;
-  background-image: url(/images/Surf-report.jpg);
+  background-image: url(../images/Surf-report.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   height: 255px;
@@ -131,7 +131,7 @@ p {
 .grid-container > div:nth-child(5) {
   grid-column: 2 / span 1;
   border: 3px solid aqua;
-  background-image: url(/images/LED-wall.jpg);
+  background-image: url(../images/LED-wall.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -139,7 +139,7 @@ p {
 .grid-container > div:nth-child(6) {
   grid-column: 3 / span 1;
   border: 3px solid aqua;
-  background-image: url(/images/Caculator.jpg);
+  background-image: url(../images/Caculator.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -147,7 +147,7 @@ p {
 .grid-container > div:nth-child(7) {
   grid-column: 2 / span 1;
   border: 3px solid aqua;
-  background-image: url(/images/Pastel-Puzzles.jpg);
+  background-image: url(../images/Pastel-Puzzles.jpg);
   background-size: cover;
   background-repeat: no-repeat;
  
@@ -155,7 +155,7 @@ p {
 .grid-container > div:nth-child(8) {
   grid-column: 3 / span 1;
   border: 3px solid aqua;
-  background-image: url(/images/02-run-buddy.jpg);
+  background-image: url(../images/02-run-buddy.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
