@@ -3,7 +3,7 @@
 Visit website (https://syed-jaffery.github.io/2-CSS-Grid-Portfolio/)
 
 ![website image](./images/screen-capture.png)
-IMPORTANT - Please click this 'website image' link to view in PDF format as GitHub pages is not rendering the website correctly
+IMPORTANT - Please see above website screen capture as GitHub pages is not rendering the website correctly
 
 ## Description
 
